@@ -1,6 +1,4 @@
-#<ul>
-  <li>"Gryffindor"</li>
-  <li>"Hufflepuff"</li>
-  <li>"Slytherin"</li>
-  <li>"Ravenclaw"<li>
-</ul>
+Gryffindor
+Hufflepuff
+Slytherin
+Ravenclaw
