@@ -1,4 +1,7 @@
-"Gryffindor"
-"Hufflepuff"
-"Slytherin"
-"Ravenclaw"
+<ul>
+  "Gryffindor"
+  "Hufflepuff"
+  "Slytherin"
+  "Ravenclaw"
+
+</ul>
